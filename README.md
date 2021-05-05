@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @steffny1
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web/Application development
 - 🌱 I’m currently learning JavaScript, CSS, HTML, Node JS and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
